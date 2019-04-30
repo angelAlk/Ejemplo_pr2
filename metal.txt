@@ -1,2 +1,3 @@
 metal: oro
 metal: plata
+metal: tungsteno
