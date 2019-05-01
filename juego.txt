@@ -1,5 +1,0 @@
-juego: minecraft
-juego: quake
-juego: doom
-juego: asteroids
-juego: halo
