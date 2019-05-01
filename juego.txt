@@ -1,1 +1,4 @@
 juego: quake
+juego: doom
+juego: asteroids
+juego: halo
