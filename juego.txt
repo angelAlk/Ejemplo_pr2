@@ -1,1 +1,3 @@
 juego: doom
+juego: asteroids
+juego: halo
