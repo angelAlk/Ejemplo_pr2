@@ -1,5 +1,0 @@
-metal: oro
-metal: plata
-metal: tungsteno
-metal: osmio
-metal: acero
